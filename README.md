@@ -1,6 +1,8 @@
-美化Win11：让Win的功能更靠近Mac，让Win的操作更简化。
+# 美化Win11：让Win的功能更靠近Mac，让Win的操作更简化。
 
 原始教程地址：https://github.com/fyonecon/Winutiful
+
+美化Mac：https://github.com/fyonecon/Macutiful
 
 ---
 
@@ -39,7 +41,7 @@
 · 教程中的“txt说明文件”有些需要“GBK编码格式”才能看，有些需要“UTF-8编码格式”才能查看。
 ~~~
 
-软件（仅限x64平台）：
+软件（仅限AMD64平台）：
 - 好压（HaoZip老版）：https://github.com/fyonecon/winutiful/releases/download/Test/haozip_v5.5.exe
 - Uninstall Edge（卸载Edge、EdgeCore）-25H2（含教程）：https://github.com/fyonecon/winutiful/releases/download/Test/Uninstall.Edge.Edge.EdgeCore.-25H2.7z 
 - Uninstall Windows Widgets-卸载小组件-25H2（含教程，自制）：https://github.com/fyonecon/winutiful/releases/download/Test/Uninstall.Windows.Widgets-.-25H2.7z 
