@@ -11,6 +11,10 @@
 
 ### Win11配套
 - Win11 U盘启动器制作：https://rufus.ie/zh/
+  > 这个制作成功后的启动U盘可以做什么：
+  > 1. 无视硬件Win11的TPM2.0的要求在老电脑上安装Win11；
+  > 2. 若电脑的Win11不能正常启动，则可以借助此U盘检查和修复电脑的Win11系统。比如可以使用【调出终端、安全模式启动、还原“系统保护”】；
+  > 3. 存一些常用软件在这个U盘里面装系统的时候用。
 - Win11 ISO镜像下载（企业版、专业版，25H2二六年5月版）：
   > magnet:?xt=urn:btih:ff7598ae8b2fc49be56ceb20509d9dac26f78855&dn=zh-cn_windows_11_business_editions_version_25h2_updated_may_2026_arm64_dvd_877177b7.iso&xl=8384253952
 - Win11 学习激活：
