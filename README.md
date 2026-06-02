@@ -28,10 +28,11 @@
 
 软件安装时的要求：
 ~~~
-设备联网，并安装完所有系统更新、驱动；
-暂时关闭Windows Defender；
-安装完成后请重启电脑。
-下载慢的话，请使用迅雷下载（ https://dl.xunlei.com/ ）。
+· 设备联网，并安装完所有系统更新、驱动；
+· 暂时关闭Windows Defender；
+· 安装完成后请重启电脑；
+· 下载慢的话，请使用迅雷下载（ https://dl.xunlei.com/ ）；
+· 教程中的“txt说明文件”有些需要“GBK编码格式”才能看，有些需要“UTF-8编码格式”才能查看。
 ~~~
 
 软件（仅限x64平台）：
@@ -47,8 +48,10 @@
 - Faststone取色器（含教程）：https://github.com/fyonecon/winutiful/releases/download/Test/faststone.zip
 - 永中Office（2023）：https://github.com/fyonecon/winutiful/releases/download/Test/Yozo.Office.Pro-2024-v9.0.5533.102ZH.ZJ03.7z 
 - WPS Office（2023）：https://github.com/fyonecon/winutiful/releases/download/Test/WPS.Office._12.8.2.18205_.exe 
+- Win11拼音版(600万词-含BetterRime)-v20.3（含教程）：https://github.com/fyonecon/Winutiful/releases/download/Test/Win11.Dict-SuperRime-v20.3.dat.7z 
 
 ### 桌面截图（整体效果如图）：
+
 ![桌面截图](./docs/桌面截图.png)
 
 ---
@@ -58,10 +61,13 @@
 ### 中文输入法改成只能输入中文（关闭Shift切换）：
 【仿Mac习惯】
 
-就是切换输入法只能用“Ctrl+空格”、“Win/Mac+空格”切换输入法，关闭Shift切换输入法。
+就是切换输入法只能用“Ctrl+空格”、“Win/Mac+空格”切换输入法，关闭Shift切换输入法：
 
-位置如图：
 ![关闭中文输入法中的英文输入](./docs/关闭中文输入法中的英文输入.png)
+
+更改默认输入法：
+
+![默认输入法](./docs/默认输入法.png)
 
 ### 快速在Win11打开Win10右键菜单：
 【优化Win11】
@@ -69,6 +75,7 @@
 同时安装Shift+Ctrl，然后鼠标右键。
 
 效果如图：
+
 ![快速在Win11打开Win10右键菜单](./docs/Win11中打开Win10右键菜单.png)
 
 ### Win11开始菜单优化：
@@ -100,6 +107,21 @@
 
 ![网速显示](./docs/网速显示.png)
 
+### 导入自定义词库
+【优化Win11】
+
+关键词：Win11拼音版(600万词-含BetterRime)-v20.3
+
+词库下载（含教程）：https://github.com/fyonecon/Winutiful/releases/download/Test/Win11.Dict-SuperRime-v20.3.dat.7z
+
+![微软输入法导入自定义词库](./docs/微软输入法导入自定义词库.png)
+
+### 将Win系统编码GBK设置成UTF-8：
+【优化Win11】
+
+关闭就是GBK（Win默认编码格式），打开就是UTF-8（推荐。Mac、Linux默认编码）。
+
+![Win默认UTF-8编码](./docs/Win默认UTF-8编码.png)
 
 ---
 
